@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d9a23a-1d6e-4d92-968e-7fc7845c3b73" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WH3A0ZqsaHIaZqrTWuPEUqI4Ew" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d9a23a-1d6e-4d92-968e-7fc7845c3b73" name="Default Changelist" comment="" />
+      <created>1578792546442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578792546442</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="306" y="46" key="#Project_Structure" timestamp="1578794103244">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="306" y="46" key="#Project_Structure/62.0.1304.768@62.0.1304.768" timestamp="1578794103244" />
+    <state x="517" y="143" key="FileChooserDialogImpl" timestamp="1578793574914">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="517" y="143" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1578793574914" />
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom" timestamp="1578794862318">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.bottom/62.0.1304.768@62.0.1304.768" timestamp="1578794862318" />
+    <state width="1261" height="192" key="GridCell.Tab.0.center" timestamp="1578794862318">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.center/62.0.1304.768@62.0.1304.768" timestamp="1578794862318" />
+    <state width="1261" height="192" key="GridCell.Tab.0.left" timestamp="1578794862318">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.left/62.0.1304.768@62.0.1304.768" timestamp="1578794862318" />
+    <state width="1261" height="192" key="GridCell.Tab.0.right" timestamp="1578794862318">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state width="1261" height="192" key="GridCell.Tab.0.right/62.0.1304.768@62.0.1304.768" timestamp="1578794862318" />
+    <state x="244" y="43" key="Maven.ArtifactSearchDialog" timestamp="1578794469519">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="244" y="43" key="Maven.ArtifactSearchDialog/62.0.1304.768@62.0.1304.768" timestamp="1578794469519" />
+    <state x="217" y="0" key="SettingsEditor" timestamp="1578804983425">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="217" y="0" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1578804983425" />
+    <state x="422" y="213" key="com.intellij.ide.util.TipDialog" timestamp="1578817563407">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="422" y="213" key="com.intellij.ide.util.TipDialog/62.0.1304.768@62.0.1304.768" timestamp="1578817563407" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1578793177120">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1578793177120" />
+  </component>
+</project>
